@@ -17,4 +17,4 @@ N/A
 ## License
 N/A
 ## Link to deployed application
-https://anacampos171.github.io/Module-1-Project/
+https://anacampos171.github.io/Module1-Horiseon-Project/
